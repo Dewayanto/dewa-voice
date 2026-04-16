@@ -1,0 +1,7 @@
+{
+  "name": "Blue Bird Safety & Product Consultant",
+  "description": "An AI Voice Agent for Blue Bird Corporation, providing expert information on safety, products, and powertrain options, while guiding users to dealers or quotes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
